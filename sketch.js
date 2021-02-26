@@ -89,7 +89,6 @@ if (backgrounds.x < 0){
 player.collide(invisibleground);
 crashcar();
 spawnCoin();
-spawnBrige();
 
 
 if(player.isTouching(carsGroup)){
